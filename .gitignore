@@ -1,0 +1,15 @@
+#ignore Debug Directory
+Debug/
+
+#ignore unknow directory
+ipch/
+
+#other misc file
+*.sdf
+*.suo
+*.tlog
+*.obj
+*.pdb
+*.idb
+*.pch
+
